@@ -1,7 +1,7 @@
 # Hi, I'm Vivek Awasthi 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Java+Programmer;Python+Developer+in+Progress;BTech+CSE+Student;DSA+%26+Problem+Solving;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Java+Programmer;Java+Developer+in+Progress;BTech+CSE+Student;DSA+%26+Problem+Solving;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
