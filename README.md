@@ -71,7 +71,7 @@ Some of the topics I practice:
 
 📌 My solutions:
 
-**[LeetCode Solutions](https://github.com/vivekawasthi2007/leetcodeQuestion)**
+**[LeetCode Solutions]((https://github.com/vivekawasthi2007/LeetCode_Problems))**
 
 ---
 
