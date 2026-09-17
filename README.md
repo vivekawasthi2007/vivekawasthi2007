@@ -19,11 +19,23 @@ I mainly work with **Java** and enjoy understanding how things work by building 
 
 ---
 
-## ⚡ Skills
+## ⚡ Skills & Technologies
 
-### Programming
+### Languages & Backend
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### Frontend & Styling
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ### DSA & Problem Solving
@@ -32,7 +44,7 @@ I mainly work with **Java** and enjoy understanding how things work by building 
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </p>
 
-### Tools
+### Developer Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -42,22 +54,49 @@ I mainly work with **Java** and enjoy understanding how things work by building 
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### ⚖️ SAZAS
-**Smart Adjudication & Zerodely Alert System**
+### ⚖️ SAZAS — Smart Adjudication & Zero-delay Alert System
+> **Desktop Case Management & Judicial Tracking Application**
 
-A Java-based application developed for managing case-related information with database integration and OTP-based verification.
+A desktop application designed to streamline legal proceedings, track hearing dates, and minimize court delays through an automated alert mechanism and case docket tracking.
 
-**Tech:** Java · Java Swing · SQLite · NetBeans
+- 📂 **Case Lifecycle Management:** Track and organize case docket details, scheduled hearing sessions, and client records.
+- 🔐 **OTP-Based Verification:** Secure authentication ensuring authenticated advocate and client access.
+- ⏰ **Zero-Delay Alert System:** Automated scheduling reminders to prevent missed court hearings.
+- 💾 **Database Integration:** Local persistent storage with SQLite for fast and reliable query execution.
+
+**Tech Stack:** `Java` · `Java Swing` · `JDBC` · `SQLite` · `Apache NetBeans`
 
 ---
 
-### 🍔 FoodieHub
+### 🍔 [FoodieHub](https://github.com/vivekawasthi2007/FoodieHub) — Online Food Ordering & Delivery System
+> **Full-Stack Restaurant & Real-Time Delivery Web Application**
 
-A food ordering web project with features such as menu, cart, wishlist, profile and order management.
+A modern food delivery platform built with Django and Tailwind CSS offering end-to-end food ordering — from browsing extensive multi-category menus to live 30-minute delivery tracking.
 
-**Tech:** Django · Python · HTML · CSS · JavaScript
+- 🍕 **Categorized Catalog & Live Search:** 100+ menu items across Starters, Main Course, Desserts, and Beverages with instant keyword search.
+- ❤️ **Interactive Favorites:** Dynamic wishlist toggling to bookmark favorite dishes.
+- 🛒 **Smart Cart & One-Click Checkout:** Subtotal calculations with auto-fetching of saved user delivery addresses from user profiles.
+- ⏱️ **Real-Time Order Tracking:** Client-side 30-minute countdown timer with dynamic order status updates (`Pending` 🟡, `Preparing` 🟠, `Out for Delivery` 🚚, `Delivered` 🟢).
+- 👤 **Auth & Order History:** Secure user registration, authentication, address updates, and past purchase history.
+
+**Tech Stack:** `Python` · `Django` · `Tailwind CSS` · `SQLite` · `JavaScript`
+
+---
+
+### 🔄 [BarterX (Barter System)](https://github.com/vivekawasthi2007/Barter-System) — Peer-to-Peer Barter Marketplace
+> **Cashless Peer-to-Peer Goods Trading & Swap Platform**
+
+A cashless marketplace web application allowing users to exchange and trade pre-owned physical goods directly with other users without traditional currency ("Exchange items without money 💱").
+
+- 💱 **Cashless Goods Exchange:** Post items for barter with titles, categories, estimated valuations, and image uploads.
+- 🔍 **Live Search Filter:** Client-side search filtering by item title and category in real time without page reload.
+- 💬 **In-App Trade Chat:** Direct buyer-seller messaging system to coordinate trade terms and negotiate swap offers.
+- 🔐 **Secure Auth & OTP Verification:** Sign up with OTP verification flow, password hashing via `werkzeug.security`, and session management.
+- 🌓 **Glassmorphism UI & Dark Mode:** Responsive layout with modern frosted glass styling and instant Dark/Light mode switcher.
+
+**Tech Stack:** `Python` · `Flask` · `Flask-CORS` · `SQLite` · `HTML5 / CSS3` · `JavaScript (Fetch API)`
 
 ---
 
